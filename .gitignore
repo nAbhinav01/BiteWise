@@ -1,0 +1,32 @@
+# Environment variables & secrets
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# IDE / editor
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs / temp files
+*.log
+*.tmp
+
+# Large datasets - keep the small bundled sample tracked
+data/*.csv
+!data/sample_data.csv
+
+.streamlit/secrets.toml

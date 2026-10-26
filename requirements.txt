@@ -1,0 +1,12 @@
+streamlit
+pytesseract
+opencv-python-headless
+Pillow
+pandas
+numpy
+requests
+python-dotenv
+
+# Note: the LLM explanation calls the Groq REST API through
+# "requests", so no extra AI SDK is needed.
+# Testing tools are in requirements-dev.txt.

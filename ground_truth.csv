@@ -1,0 +1,25 @@
+file,kind,product,is_drink,verdict,calories_kcal,sugar_g,saturated_fat_g,sodium_mg,fibre_g,protein_g
+01_potato_chips_clean.png,clean,Potato chips,0,unhealthy,536,0.5,3.5,600,4,6
+01_potato_chips_photo.jpg,photo,Potato chips,0,unhealthy,536,0.5,3.5,600,4,6
+02_instant_noodles_clean.png,clean,Instant noodles,0,unhealthy,430,2,8,1500,3,9
+02_instant_noodles_photo.jpg,photo,Instant noodles,0,unhealthy,430,2,8,1500,3,9
+03_digestive_biscuits_clean.png,clean,Digestive biscuits,0,unhealthy,480,20,8,400,3,7
+03_digestive_biscuits_photo.jpg,photo,Digestive biscuits,0,unhealthy,480,20,8,400,3,7
+04_chocolate_bar_clean.png,clean,Chocolate bar,0,unhealthy,540,55,18,80,3,6
+04_chocolate_bar_photo.jpg,photo,Chocolate bar,0,unhealthy,540,55,18,80,3,6
+05_cola_drink_clean.png,clean,Cola (soft drink),1,unhealthy,42,10.6,0,5,,0
+05_cola_drink_photo.jpg,photo,Cola (soft drink),1,unhealthy,42,10.6,0,5,,0
+06_orange_juice_clean.png,clean,Orange juice,1,unhealthy,46,10,0,2,0.2,0.7
+06_orange_juice_photo.jpg,photo,Orange juice,1,unhealthy,46,10,0,2,0.2,0.7
+07_plain_oats_clean.png,clean,Plain oats,0,healthy,370,1,1.4,5,10,13
+07_plain_oats_photo.jpg,photo,Plain oats,0,healthy,370,1,1.4,5,10,13
+08_muesli_clean.png,clean,Muesli (no added sugar),0,healthy,360,12,1.5,30,8,10
+08_muesli_photo.jpg,photo,Muesli (no added sugar),0,healthy,360,12,1.5,30,8,10
+09_plain_yogurt_clean.png,clean,Plain yogurt,0,healthy,60,4.5,2,45,,4
+09_plain_yogurt_photo.jpg,photo,Plain yogurt,0,healthy,60,4.5,2,45,,4
+10_namkeen_clean.png,clean,Namkeen / bhujia,0,unhealthy,560,3,13,920,5,15
+10_namkeen_photo.jpg,photo,Namkeen / bhujia,0,unhealthy,560,3,13,920,5,15
+11_cookies_per_serving_clean.png,clean,Cookies (per serving only),0,unhealthy,500,30,12,300,,5
+11_cookies_per_serving_photo.jpg,photo,Cookies (per serving only),0,unhealthy,500,30,12,300,,5
+12_granola_kj_clean.png,clean,Granola (energy in kJ),0,healthy,370.4,1,1.2,8,9,12
+12_granola_kj_photo.jpg,photo,Granola (energy in kJ),0,healthy,370.4,1,1.2,8,9,12

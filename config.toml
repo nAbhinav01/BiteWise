@@ -1,0 +1,12 @@
+# BiteWise theme: dark charcoal with mint-green accents (default).
+# The in-app Light/Dark switch is handled in ui.py; this sets the base look.
+[theme]
+base = "dark"
+primaryColor = "#34c77b"
+backgroundColor = "#121615"
+secondaryBackgroundColor = "#1c2321"
+textColor = "#f2f5f3"
+font = "sans serif"
+
+[browser]
+gatherUsageStats = false
